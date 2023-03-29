@@ -1,0 +1,15 @@
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_2/project001_Method/bin/Debug/net6.0/project001_Method
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_2/project001_Method/bin/Debug/net6.0/project001_Method.deps.json
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_2/project001_Method/bin/Debug/net6.0/project001_Method.runtimeconfig.json
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_2/project001_Method/bin/Debug/net6.0/project001_Method.dll
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_2/project001_Method/bin/Debug/net6.0/project001_Method.pdb
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_2/project001_Method/obj/Debug/net6.0/project001_Method.csproj.AssemblyReference.cache
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_2/project001_Method/obj/Debug/net6.0/project001_Method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_2/project001_Method/obj/Debug/net6.0/project001_Method.AssemblyInfoInputs.cache
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_2/project001_Method/obj/Debug/net6.0/project001_Method.AssemblyInfo.cs
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_2/project001_Method/obj/Debug/net6.0/project001_Method.csproj.CoreCompileInputs.cache
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_2/project001_Method/obj/Debug/net6.0/project001_Method.dll
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_2/project001_Method/obj/Debug/net6.0/refint/project001_Method.dll
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_2/project001_Method/obj/Debug/net6.0/project001_Method.pdb
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_2/project001_Method/obj/Debug/net6.0/project001_Method.genruntimeconfig.cache
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_2/project001_Method/obj/Debug/net6.0/ref/project001_Method.dll
